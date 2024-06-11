@@ -199,10 +199,11 @@ bash start-cluster.sh
 ```
 
 ## Accessing the Hadoop Cluster
-NameNode Web UI: http://localhost:9870
-ResourceManager Web UI: http://localhost:8089
-HistoryServer Web UI: http://localhost:8188
-NodeManager Web UI: http://localhost:8042
+
+NameNode Web UI: http://localhost:9870  
+ResourceManager Web UI: http://localhost:8089  
+HistoryServer Web UI: http://localhost:8188  
+NodeManager Web UI: http://localhost:8042  
 
 ## Contributing
 Feel free to submit issues and pull requests for improvements.
