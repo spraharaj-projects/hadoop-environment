@@ -1,0 +1,42 @@
+airflow:
+  type: folder
+conf:
+  type: folder
+datanode:
+  type: folder
+  Dockerfile:
+    type: file
+  run.sh:
+    type: file
+historyserver:
+  type: folder
+  Dockerfile:
+    type: file
+  run.sh:
+    type: file
+namenode:
+  type: folder
+  Dockerfile:
+    type: file
+  run.sh:
+    type: file
+nodemanager:
+  type: folder
+  Dockerfile:
+    type: file
+  run.sh:
+    type: file
+resourcemanager:
+  type: folder
+  Dockerfile:
+    type: file
+  run.sh:
+    type: file
+spark:
+  type: folder
+Dockerfile:
+  type: file
+docker-compose.yml:
+  type: file
+start-cluster.sh:
+  type: file
